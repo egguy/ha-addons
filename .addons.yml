@@ -1,0 +1,7 @@
+---
+channel: stable
+addons:
+  grott:
+    repository: egguy/addon-grott
+    target: grott
+    image: ghcr.io/egguy/addon-grott/{arch}
