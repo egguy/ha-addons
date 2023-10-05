@@ -1,5 +1,5 @@
 ---
-channel: edge
+channel: stable
 addons:
   grott:
     repository: egguy/addon-grott
