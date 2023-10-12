@@ -16,5 +16,5 @@ and current grott_ha extension.
 
 
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-v0.1.3-blue.svg
-[release]: https://github.com/egguy/addon-grott/tree/v0.1.3
+[release-shield]: https://img.shields.io/badge/version-v0.1.4-blue.svg
+[release]: https://github.com/egguy/addon-grott/tree/v0.1.4
