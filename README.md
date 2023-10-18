@@ -3,12 +3,25 @@
 ![Project Stage][project-stage-shield]
 ![Maintenance][maintenance-shield]
 [![License][license-shield]](LICENSE.md)
+
+
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/egguy)
 
 
 ## About
 
 Addons for HA, at the moment, mostly grott
+
+## Installation
+
+Use the following URL to add this repository:
+
+```txt
+https://github.com/egguy/ha-addons
+```
+
+[![Open your Home Assistant instance and show the add add-on repository dialog with a specific repository URL pre-filled.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fegguy%2Fha-addons)
+
 
 ## Add-ons provided by this repository
 
@@ -25,7 +38,7 @@ The Growatt inverter monitor with current HA plugin integrated
 
 [:books: Grott Beta branch (2.8) - An addon for Home Assistant to monitor Growatt inverters add-on documentation][addon-doc-grott-beta]
 
-### &#10003; [Grott stable branch (2.7) - An addon for Home Assistant to monitor Growatt inverters with MQTT][addon-grott]
+### &#10003; [Grott stable branch (2.7)][addon-grott]
 
 ![Latest Version][grott-version-shield]
 ![Supports armhf Architecture][grott-armhf-shield]
@@ -36,7 +49,7 @@ The Growatt inverter monitor with current HA plugin integrated
 
 The Growatt inverter monitor with current HA plugin integrated
 
-[:books: Grott stable branch (2.7) - An addon for Home Assistant to monitor Growatt inverters with MQTT add-on documentation][addon-doc-grott]
+[:books: Grott stable branch (2.7) add-on documentation][addon-doc-grott]
 
 ## Releases
 
@@ -64,7 +77,7 @@ GitHub repository for each add-on. Please ensure you are creating the issue
 on the correct GitHub repository matching the add-on.
 
 - [Open an issue for the add-on: Grott Beta branch (2.8) - An addon for Home Assistant to monitor Growatt inverters][grott-beta-issue]
-- [Open an issue for the add-on: Grott stable branch (2.7) - An addon for Home Assistant to monitor Growatt inverters with MQTT][grott-issue]
+- [Open an issue for the add-on: Grott stable branch (2.7)][grott-issue]
 
 For a general repository issue or add-on ideas [open an issue here][issue]
 
@@ -88,20 +101,10 @@ For a general repository issue or add-on ideas [open an issue here][issue]
 [grott-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [grott-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [grott-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[awesome-shield]: https://img.shields.io/badge/awesome%3F-yes-brightgreen.svg
-[awesome]: https://awesome-ha.com
-[discord-ha]: https://discord.gg/c5DvZ4e
-[discord-shield]: https://img.shields.io/discord/478094546522079232.svg
-[discord]: https://discord.me/hassioaddons
-[forum-frenck]: https://community.home-assistant.io/u/frenck/?u=frenck
-[forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
-[forum]: https://community.home-assistant.io?u=frenck
-[frenck]: https://github.com/frenck
 [gitlabci-shield]: https://gitlab.com/egguy/ha-addons/badges/master/pipeline.svg
 [gitlabci]: https://gitlab.com/egguy/ha-addons/pipelines
 [issue]: https://github.com/egguy/ha-addons/issues
 [license-shield]: https://img.shields.io/github/license/egguy/ha-addons.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2023.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[reddit]: https://reddit.com/r/homeassistant
 [semver]: http://semver.org/spec/v2.0.0.html
