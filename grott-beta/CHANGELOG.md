@@ -1,7 +1,8 @@
 ## What’s changed
+## 🚀 Enhancements
 
-- Updated curl
+- Propagate deployment to the old repo @egguy (#3)
 
-## ⬆️ Dependency updates
+## 📚 Documentation
 
-- ⬆️ Update Add-on base image to v14.2.2 @renovate (#8)
+- Add improved documentation @egguy (#4)
