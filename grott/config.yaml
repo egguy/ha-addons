@@ -1,5 +1,5 @@
 name: Grott stable branch (2.7)
-version: 0.1.7
+version: 0.1.8
 slug: grott
 description: The Growatt inverter monitor with current HA plugin integrated
 url: https://github.com/egguy/addon-grott
@@ -13,7 +13,8 @@ services:
 - mqtt:need
 init: false
 map:
-- config:rw
+- addon_config:rw
+- homeassistant_config:rw
 ports:
   5279/tcp: 5279
 ports_description:
