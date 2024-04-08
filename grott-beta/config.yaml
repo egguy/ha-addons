@@ -1,5 +1,5 @@
 name: Grott Beta branch (2.8)
-version: 0.1.6
+version: 0.1.7
 slug: grott-beta
 description: The Growatt inverter monitor with current HA plugin integrated
 url: https://github.com/egguy/addon-grott-beta
