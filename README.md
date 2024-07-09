@@ -38,7 +38,7 @@ The Growatt inverter monitor with current HA plugin integrated
 
 [:books: Grott Beta branch (2.8) add-on documentation][addon-doc-grott-beta]
 
-### &#10003; [Grott stable branch (2.7)][addon-grott]
+### &#10003; [Grott stable branch (2.8)][addon-grott]
 
 ![Latest Version][grott-version-shield]
 ![Supports armhf Architecture][grott-armhf-shield]
@@ -49,7 +49,7 @@ The Growatt inverter monitor with current HA plugin integrated
 
 The Growatt inverter monitor with current HA plugin integrated
 
-[:books: Grott stable branch (2.7) add-on documentation][addon-doc-grott]
+[:books: Grott stable branch (2.8) add-on documentation][addon-doc-grott]
 
 ## Releases
 
@@ -77,7 +77,7 @@ GitHub repository for each add-on. Please ensure you are creating the issue
 on the correct GitHub repository matching the add-on.
 
 - [Open an issue for the add-on: Grott Beta branch (2.8)][grott-beta-issue]
-- [Open an issue for the add-on: Grott stable branch (2.7)][grott-issue]
+- [Open an issue for the add-on: Grott stable branch (2.8)][grott-issue]
 
 For a general repository issue or add-on ideas [open an issue here][issue]
 
