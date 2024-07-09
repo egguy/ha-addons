@@ -1,20 +1,14 @@
 ## What’s changed
 ## 🚀 Enhancements
 
-- (feat) Rebuild the addon using the stable branch @egguy (#46)
-
-## 🧰 Maintenance
-
-- Replaced goss image testing by pytest testinfra
+- Updated adddon title @egguy (#50)
+- (chore) Update the version of grott  @egguy (#55)
 
 ## ⬆️ Dependency updates
 
-- ⬆️ Update requests to v2.32.1 @renovate (#42)
-- ⬆️ Update Add-on base image to v13.1.3 @renovate (#40)
-- ⬆️ Update requests to v2.32.2 @renovate (#43)
-- ⬆️ Update influxdb to v5.3.2 @renovate (#41)
-- ⬆️ Update docker/login-action action to v3.2.0 @renovate (#44)
-- ⬆️ Update requests to v2.32.3 @renovate (#45)
-- Updated goss version @egguy (#47)
-- (feat) Rebuild the addon using the stable branch @egguy (#46)
-- ⬆️ Update pytest to v8.2.2 @renovate (#48)
+- ⬆️ Update docker/build-push-action action to v5.4.0 @renovate (#49)
+- ⬆️ Update docker/setup-qemu-action action to v3.1.0 @renovate (#53)
+- ⬆️ Update docker/setup-buildx-action action to v3.4.0 @renovate (#54)
+- ⬆️ Update docker/build-push-action action to v6 @renovate (#52)
+- Updated adddon title @egguy (#50)
+- (chore) Update the version of grott  @egguy (#55)
