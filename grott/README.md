@@ -15,6 +15,6 @@ This addon is based on the 2.8.3 [grott](https://github.com/johanmeijer/grott) c
 
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2023.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-v0.1.10-blue.svg
-[release]: https://github.com/egguy/addon-grott/tree/v0.1.10
+[release-shield]: https://img.shields.io/badge/version-v0.1.11-blue.svg
+[release]: https://github.com/egguy/addon-grott/tree/v0.1.11
 [docs]: https://github.com/egguy/addon-grott/blob/main/grott/DOCS.md

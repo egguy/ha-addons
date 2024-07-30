@@ -1,14 +1,21 @@
 ## What’s changed
-## 🚀 Enhancements
+## 🐛 Bug fixes
 
-- Updated adddon title @egguy (#50)
-- (chore) Update the version of grott  @egguy (#55)
+- Update the schedule of the lock to not trigger the rate limit @egguy (#60)
+
+## 🧰 Maintenance
+
+- ⬆️ : Updated the version of grott used to 20240722 @egguy (#71)
 
 ## ⬆️ Dependency updates
 
-- ⬆️ Update docker/build-push-action action to v5.4.0 @renovate (#49)
-- ⬆️ Update docker/setup-qemu-action action to v3.1.0 @renovate (#53)
-- ⬆️ Update docker/setup-buildx-action action to v3.4.0 @renovate (#54)
-- ⬆️ Update docker/build-push-action action to v6 @renovate (#52)
-- Updated adddon title @egguy (#50)
-- (chore) Update the version of grott  @egguy (#55)
+- ⬆️ Update docker/build-push-action action to v6.4.1 @renovate (#61)
+- ⬆️ Update Add-on base image to v14 (major) @renovate (#62)
+- ⬆️ Update pytest to v8.3.1 @renovate (#63)
+- ⬆️ Update docker/build-push-action action to v6.5.0 @renovate (#64)
+- ⬆️ Update docker/login-action action to v3.3.0 @renovate (#65)
+- ⬆️ Update docker/setup-buildx-action action to v3.5.0 @renovate (#66)
+- ⬆️ Update docker/setup-qemu-action action to v3.2.0 @renovate (#67)
+- ⬆️ Update pytest to v8.3.2 @renovate (#68)
+- ⬆️ Update docker/setup-buildx-action action to v3.6.0 @renovate (#70)
+- ⬆️ Update docker/setup-buildx-action action to v3.6.1 @renovate (#72)
